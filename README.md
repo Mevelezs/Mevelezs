@@ -11,6 +11,8 @@ const Mevelezs = {
     }
 ```
 ## You can find me 🌍 :
-- [email](serketh7@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/mauricio-v%C3%A9lez-sol%C3%ADs/)
 - [twitter](https://twitter.com/Mevelezs?t=b4EDsWnRSlgOk0QrYoN6dg&s=08)
+
+          
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mevelezs)](https://github.com/anuraghazra/github-readme-stats)
