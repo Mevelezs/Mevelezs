@@ -1,4 +1,5 @@
 <h2> Hi, I'm Mauricio Vélez! </h2>
+<img src ="https://styde.net/wp-content/uploads/2019/09/github-composer.jpg" halt = image>
 <p><em> Full Stack Developer at <a href="http://soyhenry.com"> Soy Henry </a></p>
 
           
