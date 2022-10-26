@@ -7,7 +7,7 @@
 
 <p><em>Hello, I am a Full Stack Web Developer with specialized training in Web Design. Experience working with Nodejs, JavaScript, React, Redux, Express, Postgres.
  
-I participated in the realization of an [e-commers](https://front-wheat-gamma.vercel.app/) where I was an active part in the construction of the main axis in the back-end of the page; the content of the routes. For this purpose, the integration of an external API of technology products using Sequelize to save the data in a database made with PostgresSQL. Also the control of the forms in general and the responsiveness of the administrator dashboard.
+I participated in the realization of an [e-commerce](https://front-wheat-gamma.vercel.app/) where I was an active part in the construction of the main axis in the back-end of the page; the content of the routes. For this purpose, the integration of an external API of technology products using Sequelize to save the data in a database made with PostgresSQL. Also the control of the forms in general and the responsiveness of the administrator dashboard.
 
 
 Also,ss an individual project, I made a [SPA of countries](https://pi-coutries-git-master-mevelezs.vercel.app/) consuming an external API and creating tourist activities for them. Using React, Redux, Postgres, Express, and HTML as technologies and pure CSS for styles.<p/>
