@@ -8,3 +8,7 @@ const Mevelezs = {
           tools: [React, Redux, Node],
     }
 ```
+You can find me 🌍 :
+- [email](serketh7@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/mauricio-v%C3%A9lez-sol%C3%ADs/)
+- [twitter](https://twitter.com/Mevelezs?t=b4EDsWnRSlgOk0QrYoN6dg&s=08)
